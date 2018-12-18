@@ -30,7 +30,11 @@
     padding: 0.8rem;
   }
 }
+<<<<<<< HEAD
 @media(min-width:1250px) {
+=======
+@media(min-width:992px) {
+>>>>>>> 1348abb1ad7717d8e929923ca7af7b6fc2944d0c
   #mainNav {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
@@ -56,12 +60,15 @@
         background: $primary;
       }
     }
+<<<<<<< HEAD
     .navbar-expand-lg .navbar-collapse {
     display: -ms-flexbox!important;
     display: flex!important;
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
 }
+=======
+>>>>>>> 1348abb1ad7717d8e929923ca7af7b6fc2944d0c
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -71,4 +78,7 @@
     }
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1348abb1ad7717d8e929923ca7af7b6fc2944d0c

@@ -104,7 +104,10 @@ section h2 {
 }
 
 #mainNav {
+<<<<<<< HEAD
   background: rgba(0,0,0,.6);
+=======
+>>>>>>> 1348abb1ad7717d8e929923ca7af7b6fc2944d0c
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
